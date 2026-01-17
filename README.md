@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fake News Detector
 
 ## Overview
@@ -55,3 +56,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Acknowledgments
 - The dataset used in this project is sourced from publicly available fake news datasets.
 - Special thanks to the open-source community for providing tools and libraries used in this project.
+=======
+# FakeNewsPredictor
+>>>>>>> 0e02c9a48fa161c453d4415ac41fb8c29a0b5982
